@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Survey-Tiger-App/static/css/main.29cd549e.css",
+    "main.js": "/Survey-Tiger-App/static/js/main.a07f3951.js",
+    "static/js/787.579e4c7d.chunk.js": "/Survey-Tiger-App/static/js/787.579e4c7d.chunk.js",
+    "static/media/logo.png": "/Survey-Tiger-App/static/media/logo.71920b22df72924b6980.png",
+    "index.html": "/Survey-Tiger-App/index.html",
+    "main.29cd549e.css.map": "/Survey-Tiger-App/static/css/main.29cd549e.css.map",
+    "main.a07f3951.js.map": "/Survey-Tiger-App/static/js/main.a07f3951.js.map",
+    "787.579e4c7d.chunk.js.map": "/Survey-Tiger-App/static/js/787.579e4c7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cd549e.css",
+    "static/js/main.a07f3951.js"
+  ]
+}
